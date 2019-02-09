@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Vehicle Requisition</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Vehicle Requisition</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">0ad2ad45db3223005e7773abbf961917</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-09 01:00:11</sys_created_on>
+        <sys_id>d3497c89db63a3005e7773abbf96191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Requisition</sys_name>
+        <sys_package display_value="Vehicle Requisition" source="x_snc_vehicle_req">6a49b489db63a3005e7773abbf96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Requisition">6a49b489db63a3005e7773abbf96195f</sys_scope>
+        <sys_update_name>sys_wizard_answer_d3497c89db63a3005e7773abbf96191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-09 01:00:11</sys_updated_on>
+        <table/>
+        <target_url>x_snc_vehicle_req_vehicle_requisition.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
