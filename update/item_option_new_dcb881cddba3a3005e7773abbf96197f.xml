@@ -5,8 +5,8 @@
         <cat_item display_value="Vehicle Requisition">94f40d49dba3a3005e7773abbf9619ff</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
-        <choice_field/>
-        <choice_table/>
+        <choice_field>vehicle_function</choice_field>
+        <choice_table>x_snc_vehicle_req_vehicle_requisition</choice_table>
         <create_roles/>
         <default_html_value/>
         <default_value/>
@@ -26,7 +26,7 @@
         <instructions/>
         <layout>normal</layout>
         <list_table/>
-        <lookup_label/>
+        <lookup_label>vehicle_function</lookup_label>
         <lookup_price/>
         <lookup_table>x_snc_vehicle_req_vehicle_requisition</lookup_table>
         <lookup_unique>false</lookup_unique>
@@ -37,7 +37,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>vehicle_function</name>
-        <order/>
+        <order>30</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text>Vehicle Function</question_text>
@@ -59,17 +59,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-09 02:09:00</sys_created_on>
         <sys_id>dcb881cddba3a3005e7773abbf96197f</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Vehicle Function</sys_name>
         <sys_package display_value="Vehicle Requisition" source="x_snc_vehicle_req">6a49b489db63a3005e7773abbf96195f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Vehicle Requisition">6a49b489db63a3005e7773abbf96195f</sys_scope>
         <sys_update_name>item_option_new_dcb881cddba3a3005e7773abbf96197f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-09 02:18:44</sys_updated_on>
+        <sys_updated_on>2019-02-09 02:51:00</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>18</type>
+        <type>5</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>advanced</use_reference_qualifier>

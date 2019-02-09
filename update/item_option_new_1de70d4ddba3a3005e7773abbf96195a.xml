@@ -5,8 +5,8 @@
         <cat_item display_value="Vehicle Requisition">94f40d49dba3a3005e7773abbf9619ff</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
-        <choice_field/>
-        <choice_table/>
+        <choice_field>request_type</choice_field>
+        <choice_table>x_snc_vehicle_req_vehicle_requisition</choice_table>
         <create_roles/>
         <default_html_value/>
         <default_value/>
@@ -37,7 +37,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>request_type</name>
-        <order/>
+        <order>80</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text>Request Type</question_text>
@@ -59,17 +59,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-09 02:06:05</sys_created_on>
         <sys_id>1de70d4ddba3a3005e7773abbf96195a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Request Type</sys_name>
         <sys_package display_value="Vehicle Requisition" source="x_snc_vehicle_req">6a49b489db63a3005e7773abbf96195f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Vehicle Requisition">6a49b489db63a3005e7773abbf96195f</sys_scope>
         <sys_update_name>item_option_new_1de70d4ddba3a3005e7773abbf96195a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-09 02:06:05</sys_updated_on>
+        <sys_updated_on>2019-02-09 02:52:21</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>18</type>
+        <type>5</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>advanced</use_reference_qualifier>
