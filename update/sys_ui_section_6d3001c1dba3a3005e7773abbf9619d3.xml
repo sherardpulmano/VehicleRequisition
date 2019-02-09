@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Fleet data" section_id="6d3001c1dba3a3005e7773abbf9619d3" sys_domain="global" table="x_snc_vehicle_req_vehicle_requisition" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:31:39</sys_created_on>
+            <sys_id>008005c1dba3a3005e7773abbf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Fleet data" display_value="Fleet data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">6d3001c1dba3a3005e7773abbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:31:39</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_received</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:31:39</sys_created_on>
+            <sys_id>c08005c1dba3a3005e7773abbf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Fleet data" display_value="Fleet data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">6d3001c1dba3a3005e7773abbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:31:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_ordered</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:31:39</sys_created_on>
+            <sys_id>448005c1dba3a3005e7773abbf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Fleet data" display_value="Fleet data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">6d3001c1dba3a3005e7773abbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:31:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ordered_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:31:39</sys_created_on>
+            <sys_id>c48005c1dba3a3005e7773abbf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Fleet data" display_value="Fleet data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">6d3001c1dba3a3005e7773abbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:31:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:31:39</sys_created_on>
+            <sys_id>488005c1dba3a3005e7773abbf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Fleet data" display_value="Fleet data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">6d3001c1dba3a3005e7773abbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:31:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle_type_ordered</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:31:39</sys_created_on>
+            <sys_id>c88005c1dba3a3005e7773abbf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Fleet data" display_value="Fleet data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">6d3001c1dba3a3005e7773abbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:31:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>year</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:31:39</sys_created_on>
+            <sys_id>4c8005c1dba3a3005e7773abbf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Fleet data" display_value="Fleet data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">6d3001c1dba3a3005e7773abbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:31:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>make</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:31:39</sys_created_on>
+            <sys_id>c88049c1dba3a3005e7773abbf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Fleet data" display_value="Fleet data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">6d3001c1dba3a3005e7773abbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:31:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:31:39</sys_created_on>
+            <sys_id>4c8049c1dba3a3005e7773abbf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Fleet data" display_value="Fleet data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">6d3001c1dba3a3005e7773abbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:31:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:31:39</sys_created_on>
+            <sys_id>cc8049c1dba3a3005e7773abbf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Fleet data" display_value="Fleet data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">6d3001c1dba3a3005e7773abbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:31:39</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fleet_comments</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:31:39</sys_created_on>
+            <sys_id>408049c1dba3a3005e7773abbf9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Fleet data" display_value="Fleet data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">6d3001c1dba3a3005e7773abbf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:31:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Fleet data</caption>
+            <header>false</header>
+            <name>x_snc_vehicle_req_vehicle_requisition</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:30:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d3001c1dba3a3005e7773abbf9619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Fleet data</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Vehicle Requisition" source="x_snc_vehicle_req">6a49b489db63a3005e7773abbf96195f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vehicle Requisition">6a49b489db63a3005e7773abbf96195f</sys_scope>
+            <sys_update_name>sys_ui_section_6d3001c1dba3a3005e7773abbf9619d3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:30:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

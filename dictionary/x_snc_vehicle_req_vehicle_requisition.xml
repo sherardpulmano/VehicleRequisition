@@ -1,3 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Vehicle Requisition" max_length="40" name="x_snc_vehicle_req_vehicle_requisition" type="collection"/>
+    <element audit="true" extends="task" label="Vehicle Requisition" max_length="40" name="x_snc_vehicle_req_vehicle_requisition" type="collection">
+        <element label="Acquire Vehicle Through" max_length="40" name="acquire_vehicle_through" type="string"/>
+        <element label="Additional vehicles exceed approved routes" max_length="40" name="additional_vehicles_exceed_approved_routes" type="string"/>
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element choice="1" label="Associated Equipment" max_length="40" name="associated_equipment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Lease" sequence="0" value="Lease"/>
+                <element inactive_on_update="false" label="Purchase" sequence="1" value="Purchase"/>
+                <element inactive_on_update="false" label="Term" sequence="2" value="Term"/>
+                <element inactive_on_update="false" label="Trade Agreement" sequence="3" value="Trade Agreement"/>
+            </choice>
+        </element>
+        <element label="City/State" max_length="40" name="city" type="string"/>
+        <element label="Current Number of Approved Routes" max_length="40" name="current_number_of_approved_routes" type="string"/>
+        <element label="Current Number of vehicles" max_length="40" name="current_number_of_vehicles" type="string"/>
+        <element label="Date Ordered" max_length="40" name="date_ordered" type="glide_date"/>
+        <element label="Date Received" max_length="40" name="date_received" type="glide_date"/>
+        <element label="Date Vehicle Needed" max_length="40" name="date_vehicle_needed" type="glide_date"/>
+        <element label="Driver Name" max_length="32" name="driver_name" reference="sys_user" type="reference"/>
+        <element label="Driver's Job Title" max_length="40" name="driver_s_job_title" type="string"/>
+        <element label="Fleet Comments" max_length="40" name="fleet_comments" type="string"/>
+        <element label="Job Code" max_length="40" name="job_code" type="string"/>
+        <element label="Justification" max_length="40" name="justification" type="string"/>
+        <element label="Location Name" max_length="32" name="location_name" reference="cmn_location" type="reference"/>
+        <element label="Make" max_length="40" name="make" type="string"/>
+        <element label="Model" max_length="40" name="model" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Ordered By" max_length="40" name="ordered_by" reference="sys_user" type="reference"/>
+        <element label="Personal Use Code" max_length="40" name="personal_use_code" type="string"/>
+        <element label="Presidential Options" max_length="40" name="presidential_options" type="string"/>
+        <element choice="1" label="Request Type" max_length="40" name="request_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Additional" sequence="0" value="Additional"/>
+                <element inactive_on_update="false" label="Replacement" sequence="1" value="Replacement"/>
+            </choice>
+        </element>
+        <element label="Special Manufacturer's Options" max_length="40" name="special_manufacturer_s_options" type="string"/>
+        <element label="Telephone Number" max_length="40" name="telephone_number" type="string"/>
+        <element label="Type Vehicle" max_length="40" name="type_vehicle" type="string"/>
+        <element label="Unit/Decal #" max_length="40" name="unit_decal" type="string"/>
+        <element choice="1" label="Vehicle Function" max_length="40" name="vehicle_function" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Management" sequence="0" value="Management"/>
+                <element inactive_on_update="false" label="Sales" sequence="1" value="Sales"/>
+                <element inactive_on_update="false" label="Service" sequence="2" value="Service"/>
+                <element inactive_on_update="false" label="Supervisory" sequence="3" value="Supervisory"/>
+            </choice>
+        </element>
+        <element label="Vehicle Type Ordered" max_length="40" name="vehicle_type_ordered" type="string"/>
+        <element label="Year" max_length="40" name="year" type="integer"/>
+    </element>
 </database>

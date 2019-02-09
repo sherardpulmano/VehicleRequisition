@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="date_vehicle_needed" label="Date Vehicle Needed" language="en" table="x_snc_vehicle_req_vehicle_requisition">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>date_vehicle_needed</element>
+            <help/>
+            <hint/>
+            <label>Date Vehicle Needed</label>
+            <language>en</language>
+            <name>x_snc_vehicle_req_vehicle_requisition</name>
+            <plural>Date Vehicle Needed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:19:30</sys_created_on>
+            <sys_id>9ebd3ccddb63a3005e7773abbf961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date Vehicle Needed</sys_name>
+            <sys_package display_value="Vehicle Requisition" source="x_snc_vehicle_req">6a49b489db63a3005e7773abbf96195f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vehicle Requisition">6a49b489db63a3005e7773abbf96195f</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_vehicle_req_vehicle_requisition_date_vehicle_needed_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:19:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

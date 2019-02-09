@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Additional Vehicle" section_id="c0dff881dba3a3005e7773abbf96194c" sys_domain="global" table="x_snc_vehicle_req_vehicle_requisition" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>current_number_of_approved_routes</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:29:02</sys_created_on>
+            <sys_id>71ef3c81dba3a3005e7773abbf961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Vehicle" display_value="Additional Vehicle" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">c0dff881dba3a3005e7773abbf96194c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:29:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>current_number_of_vehicles</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:29:02</sys_created_on>
+            <sys_id>35ef3c81dba3a3005e7773abbf961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Vehicle" display_value="Additional Vehicle" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">c0dff881dba3a3005e7773abbf96194c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:29:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_vehicles_exceed_approved_routes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:29:02</sys_created_on>
+            <sys_id>b5ef3c81dba3a3005e7773abbf961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Vehicle" display_value="Additional Vehicle" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">c0dff881dba3a3005e7773abbf96194c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:29:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Additional Vehicle</caption>
+            <header>false</header>
+            <name>x_snc_vehicle_req_vehicle_requisition</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:28:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0dff881dba3a3005e7773abbf96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Additional Vehicle</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Vehicle Requisition" source="x_snc_vehicle_req">6a49b489db63a3005e7773abbf96195f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vehicle Requisition">6a49b489db63a3005e7773abbf96195f</sys_scope>
+            <sys_update_name>sys_ui_section_c0dff881dba3a3005e7773abbf96194c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:28:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

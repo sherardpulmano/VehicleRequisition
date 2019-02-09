@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="General Data" section_id="419281c5dba3a3005e7773abbf9619ed" sys_domain="global" table="x_snc_vehicle_req_vehicle_requisition" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>86244d09dba3a3005e7773abbf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>driver_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>0a244d09dba3a3005e7773abbf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>driver_s_job_title</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>8a244d09dba3a3005e7773abbf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle_function</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>0e244d09dba3a3005e7773abbf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>8e244d09dba3a3005e7773abbf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_vehicle</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>02244d09dba3a3005e7773abbf961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>presidential_options</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>82244d09dba3a3005e7773abbf961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>special_manufacturer_s_options</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>06244d09dba3a3005e7773abbf961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>86244d09dba3a3005e7773abbf961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_type</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>1a244d09dba3a3005e7773abbf961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_vehicle_needed</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>9a244d09dba3a3005e7773abbf961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>job_code</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>1e244d09dba3a3005e7773abbf961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>personal_use_code</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>9e244d09dba3a3005e7773abbf961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>acquire_vehicle_through</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>12244d09dba3a3005e7773abbf961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>associated_equipment</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>92244d09dba3a3005e7773abbf961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>16244d09dba3a3005e7773abbf961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>justification</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:47:37</sys_created_on>
+            <sys_id>96244d09dba3a3005e7773abbf961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Data" display_value="General Data" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">419281c5dba3a3005e7773abbf9619ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:47:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>General Data</caption>
+            <header>false</header>
+            <name>x_snc_vehicle_req_vehicle_requisition</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-09 01:40:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>419281c5dba3a3005e7773abbf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>General Data</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Vehicle Requisition" source="x_snc_vehicle_req">6a49b489db63a3005e7773abbf96195f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vehicle Requisition">6a49b489db63a3005e7773abbf96195f</sys_scope>
+            <sys_update_name>sys_ui_section_419281c5dba3a3005e7773abbf9619ed</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-09 01:40:43</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
