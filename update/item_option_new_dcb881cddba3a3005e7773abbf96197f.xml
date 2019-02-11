@@ -22,7 +22,7 @@
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
-        <include_none>false</include_none>
+        <include_none>true</include_none>
         <instructions/>
         <layout>normal</layout>
         <list_table/>
@@ -32,7 +32,7 @@
         <lookup_unique>false</lookup_unique>
         <lookup_value>vehicle_function</lookup_value>
         <macro/>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
@@ -59,14 +59,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-09 02:09:00</sys_created_on>
         <sys_id>dcb881cddba3a3005e7773abbf96197f</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Vehicle Function</sys_name>
         <sys_package display_value="Vehicle Requisition" source="x_snc_vehicle_req">6a49b489db63a3005e7773abbf96195f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Vehicle Requisition">6a49b489db63a3005e7773abbf96195f</sys_scope>
         <sys_update_name>item_option_new_dcb881cddba3a3005e7773abbf96197f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-09 02:51:00</sys_updated_on>
+        <sys_updated_on>2019-02-10 15:21:08</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>

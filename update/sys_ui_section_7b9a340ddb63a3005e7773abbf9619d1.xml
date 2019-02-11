@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-09 01:59:06</sys_created_on>
-            <sys_id>92c6850ddba3a3005e7773abbf961988</sys_id>
+            <sys_created_on>2019-02-10 14:40:19</sys_created_on>
+            <sys_id>3a9efc29dba327005e7773abbf961953</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">7b9a340ddb63a3005e7773abbf9619d1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-09 01:59:06</sys_updated_on>
+            <sys_updated_on>2019-02-10 14:40:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>assignment_group</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-09 01:59:06</sys_created_on>
-            <sys_id>1ac6850ddba3a3005e7773abbf961988</sys_id>
+            <sys_created_on>2019-02-10 14:40:19</sys_created_on>
+            <sys_id>769e7069dba327005e7773abbf9619b5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">7b9a340ddb63a3005e7773abbf9619d1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-09 01:59:06</sys_updated_on>
+            <sys_updated_on>2019-02-10 14:40:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>assigned_to</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-09 01:59:06</sys_created_on>
-            <sys_id>9ac6850ddba3a3005e7773abbf961988</sys_id>
+            <sys_created_on>2019-02-10 14:40:19</sys_created_on>
+            <sys_id>f69e7069dba327005e7773abbf9619b5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">7b9a340ddb63a3005e7773abbf9619d1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-09 01:59:06</sys_updated_on>
+            <sys_updated_on>2019-02-10 14:40:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-09 01:59:06</sys_created_on>
-            <sys_id>1ec6850ddba3a3005e7773abbf961988</sys_id>
+            <sys_created_on>2019-02-10 14:40:19</sys_created_on>
+            <sys_id>7a9e7069dba327005e7773abbf9619b5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">7b9a340ddb63a3005e7773abbf9619d1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-09 01:59:06</sys_updated_on>
+            <sys_updated_on>2019-02-10 14:40:19</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>unit_decal</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-09 01:59:06</sys_created_on>
-            <sys_id>9ec6850ddba3a3005e7773abbf961988</sys_id>
+            <sys_created_on>2019-02-10 14:40:19</sys_created_on>
+            <sys_id>fa9e7069dba327005e7773abbf9619b5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">7b9a340ddb63a3005e7773abbf9619d1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-09 01:59:06</sys_updated_on>
+            <sys_updated_on>2019-02-10 14:40:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>priority</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-09 01:59:06</sys_created_on>
-            <sys_id>12c6850ddba3a3005e7773abbf961989</sys_id>
+            <sys_created_on>2019-02-10 14:40:19</sys_created_on>
+            <sys_id>7e9e7069dba327005e7773abbf9619b5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">7b9a340ddb63a3005e7773abbf9619d1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-09 01:59:06</sys_updated_on>
+            <sys_updated_on>2019-02-10 14:40:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,27 +88,41 @@
             <element>state</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-09 01:59:06</sys_created_on>
-            <sys_id>92c6850ddba3a3005e7773abbf961989</sys_id>
+            <sys_created_on>2019-02-10 14:40:19</sys_created_on>
+            <sys_id>fe9e7069dba327005e7773abbf9619b5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">7b9a340ddb63a3005e7773abbf9619d1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-09 01:59:06</sys_updated_on>
+            <sys_updated_on>2019-02-10 14:40:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-10 14:40:19</sys_created_on>
+            <sys_id>729e7069dba327005e7773abbf9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">7b9a340ddb63a3005e7773abbf9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-10 14:40:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-09 01:59:06</sys_created_on>
-            <sys_id>16c6850ddba3a3005e7773abbf961989</sys_id>
+            <sys_created_on>2019-02-10 14:40:19</sys_created_on>
+            <sys_id>f29e7069dba327005e7773abbf9619b6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_vehicle_req_vehicle_requisition" sys_domain="global" view="Default view">7b9a340ddb63a3005e7773abbf9619d1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-09 01:59:06</sys_updated_on>
+            <sys_updated_on>2019-02-10 14:40:19</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Vehicle Requisition activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_snc_vehicle_req_vehicle_requisition_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-10 15:51:15</sys_created_on>
+        <sys_id>f9de0da1db2727005e7773abbf961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_snc_vehicle_req_vehicle_requisition_activity.fields</sys_name>
+        <sys_package display_value="Vehicle Requisition" source="x_snc_vehicle_req">6a49b489db63a3005e7773abbf96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Requisition">6a49b489db63a3005e7773abbf96195f</sys_scope>
+        <sys_update_name>sys_properties_f9de0da1db2727005e7773abbf961909</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-10 15:51:15</sys_updated_on>
+        <type>string</type>
+        <value>assigned_to,state,priority,opened_by,work_notes,comments,*Attachments*,justification,fleet_comments</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=f9de0da1db2727005e7773abbf961909"/>
+</record_update>
